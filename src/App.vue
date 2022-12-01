@@ -53,12 +53,12 @@
         <component :is="Component"></component>
       </transition>
     </router-view>
-    <!-- 
+
     <div class="footer">
       <a class="nav-link" href="mailto:internalfrequency@gmail.com">Email</a>
       <p class="tag-line">Channeling the Frequencies of the Universe Through Sound</p>
       <p>Phone: 1-403-619-7348</p>
-    </div> -->
+    </div>
   </div>
 </template>
 
@@ -179,8 +179,6 @@ a {
   padding-right: 2%;
   box-shadow: 0px 0px 5px 1px rgb(128, 128, 128);
   background-color: rgb(0, 0, 0);
-  position: absolute;
-  bottom: 0;
 }
 
 .tag-line {
