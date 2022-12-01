@@ -15,6 +15,7 @@
       <transition tag="div" name="list" appear>
         <div class="button-container">
           <a
+            target="_blank"
             href="https://drive.google.com/file/d/1h12VdXayPlAVCumkiFGloD_YKGbWLH-u/view?usp=share_link"
           >
             <button class="button">Download EPK</button>
