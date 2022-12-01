@@ -1,8 +1,10 @@
 <template>
-  <div class="merch">
-    <transition tag="img" name="con" appear>
-      <img src="../assets/UnderConstruction.png" alt="underconstruction" />
-    </transition>
+  <div class="container">
+    <div class="merch">
+      <transition tag="img" name="con" appear>
+        <img src="../assets/UnderConstruction.png" alt="underconstruction" />
+      </transition>
+    </div>
   </div>
 </template>
 

@@ -1,22 +1,26 @@
 <template>
-  <div>
+  <div class="container">
     <div class="epk">
       <!-- demonstrate scope with class title -->
-      <div class="title">
-        <h2>Electronic Press Kit</h2>
-      </div>
+      <transition tag="img" name="list" appear>
+        <div class="title">
+          <h2>Electronic Press Kit</h2>
+        </div>
+      </transition>
       <br />
       <transition tag="img" name="list" appear>
         <img class="epk-png" src="../assets/If-epk.png" alt="epk" />
       </transition>
       <br />
-      <div class="button-container">
-        <a
-          href="https://drive.google.com/file/d/1h12VdXayPlAVCumkiFGloD_YKGbWLH-u/view?usp=share_link"
-        >
-          <button class="button">Download EPK</button></a
-        >
-      </div>
+      <transition tag="div" name="list" appear>
+        <div class="button-container">
+          <a
+            href="https://drive.google.com/file/d/1h12VdXayPlAVCumkiFGloD_YKGbWLH-u/view?usp=share_link"
+          >
+            <button class="button">Download EPK</button>
+          </a>
+        </div>
+      </transition>
     </div>
   </div>
 </template>

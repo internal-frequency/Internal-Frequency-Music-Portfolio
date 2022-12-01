@@ -1,9 +1,11 @@
 <template>
   <div class="container">
     <div class="soundcloud">
-      <div class="title">
-        <h2>Internal Frequency on SoundCloud</h2>
-      </div>
+      <transition tag="img" name="list" appear>
+        <div class="title">
+          <h2>Internal Frequency on SoundCloud</h2>
+        </div>
+      </transition>
       <br />
 
       <iframe
@@ -562,5 +564,31 @@
 
 iframe {
   box-shadow: 5px 5px 8px 5px rgba(0, 0, 0, 0.76);
+}
+
+/* list transitions */
+.list-enter-from {
+  opacity: 0;
+  transform: scale(0.6);
+}
+.list-enter-to {
+  opacity: 1;
+  transform: scale(1);
+}
+.list-enter-active {
+  transition: all 2s ease;
+}
+
+.list-leave-from {
+  opacity: 1;
+  transform: scale(1);
+}
+.list-leave-to {
+  opacity: 0;
+  transform: scale(0.6);
+}
+
+.list-leave-active {
+  transition: all 2s ease;
 }
 </style>
