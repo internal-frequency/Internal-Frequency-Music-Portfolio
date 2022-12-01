@@ -32,14 +32,6 @@
         "
       >
         <a
-          href="https://soundcloud.com/deepdarkdangerous"
-          title="Deep Dark &amp; Dangerous"
-          target="_blank"
-          style="color: #cccccc; text-decoration: none"
-          >Deep Dark &amp; Dangerous</a
-        >
-        ·
-        <a
           href="https://soundcloud.com/deepdarkdangerous/internal-frequency-x-outsider-before-the-fall-ddd100-2"
           title="Internal Frequency x  Outsider - Before The Fall (DDD100) (2)"
           target="_blank"
@@ -72,14 +64,6 @@
         "
       >
         <a
-          href="https://soundcloud.com/tofabass"
-          title="TOFA"
-          target="_blank"
-          style="color: #cccccc; text-decoration: none"
-          >TOFA</a
-        >
-        ·
-        <a
           href="https://soundcloud.com/tofabass/tofa-internalxfrequency-zero-gravity"
           title="TOFA &amp; Internal Frequency - Zero Gravity"
           target="_blank"
@@ -111,14 +95,6 @@
           font-weight: 100;
         "
       >
-        <a
-          href="https://soundcloud.com/honeyandbass"
-          title="Honey &amp; Bass"
-          target="_blank"
-          style="color: #cccccc; text-decoration: none"
-          >Honey &amp; Bass</a
-        >
-        ·
         <a
           href="https://soundcloud.com/honeyandbass/doomsday-turn-up-internal-frequency-remix-nwsc011-hnybss-premiere"
           title="Doomsday - Turn Up (Internal Frequency Remix) (NWSC011) [HNYBSS Premiere]"
