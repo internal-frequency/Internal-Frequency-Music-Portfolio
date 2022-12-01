@@ -6,14 +6,21 @@
       <!-- <a href="https://www.flaticon.com/free-icons/instagram-sketched" title="instagram sketched icons">Instagram sketched icons created by Pixel perfect - Flaticon</a> -->
       <!-- <a href="https://www.flaticon.com/free-icons/soundcloud" title="soundcloud icons">Soundcloud icons created by Pixel perfect - Flaticon</a> -->
       <div class="left">
-        <a class="icons" href="https://www.facebook.com/InternalFrequency84"
+        <a
+          class="icons"
+          target="_blank"
+          href="https://www.facebook.com/InternalFrequency84"
           ><img class="icons-img" src="./assets/facebook.png" alt="facebook"
         /></a>
-        <a class="icons" href="https://www.instagram.com/internalfrequency/">
+        <a
+          class="icons"
+          target="_blank"
+          href="https://www.instagram.com/internalfrequency/"
+        >
           <img class="icons-img" src="./assets/instagram.png" alt="instagram"
         /></a>
         &nbsp;&nbsp;
-        <a class="icons" href="https://soundcloud.com/internalfrequency">
+        <a class="icons" target="_blank" href="https://soundcloud.com/internalfrequency">
           <img class="icons-img" src="./assets/soundcloud.png" alt="soundcloud"
         /></a>
       </div>
